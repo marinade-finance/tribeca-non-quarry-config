@@ -11,7 +11,7 @@
   },
   "822ML16seA6DiAgQsSXyXCQZvkrkwyhQu5jNwkpYhJUC": {
     "stakeLink": "https://app.crema.finance/#/pool?from=mSOL&to=SOL",
-    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Raydium.svg",
+    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Crema.svg",
     "name": "mSOL-SOL Crema"
   },
   "4W5S4RrCqbuN31BASYqTapnnG4EXzCbzhuQHKTu8UAaP": {
@@ -72,7 +72,7 @@
   "GhdVRwEQCzUFRJddWXchGpKU1MV6WmM8CVYbu2Z7zXFj": {
     "stakeLink": "https://projectlarix.com/",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL lending Larix.svg",
-    "name": "larix"
+    "name": "mSOL lending Larix"
   },
   "9hQcydE3e9zuknxkTzm9V5VxWPnPqTmudmD14cWcBQv1": {
     "stakeLink": "https://solend.fi/dashboard",
