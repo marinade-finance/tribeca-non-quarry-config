@@ -2,87 +2,87 @@
   "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b": {
     "stakeLink": "https://www.mercurial.finance/pools/msol-2pool",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Mercurial.svg",
-    "name": "mSOL-SOL Mercurial"
+    "name": "mSOL-SOL: Mercurial"
   },
   "MCRZga1kn5QvvYcBQW4mqHTXZv2dgGsK5eN6wEzBd2K": {
     "stakeLink": "https://app.crema.finance/#/pool?from=mSOL&to=SOL",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Crema.svg",
-    "name": "mSOL-SOL Crema"
+    "name": "mSOL-SOL: Crema"
   },
   "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh": {
     "stakeLink": "https://raydium.io/liquidity/add/?coin0=mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So&coin1=sol&fixed=coin0&ammId=EGyhb2uLAsRUbRx9dNFBjMVYnFaASWMvD6RE1aEf2LxL",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Raydium.svg",
-    "name": "mSOL-USDC Raydium"
+    "name": "mSOL-USDC: Raydium"
   },
   "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Orca.svg",
-    "name": "mSOL-SOL Orca"
+    "name": "mSOL-SOL: Orca"
   },
   "moRivbCrVFUg4hT43D851Rg5hE4xx6rUMEDdykkrdES": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Orca.svg",
-    "name": "mSOL-USDC Orca"
+    "name": "mSOL-USDC: Orca"
   },
   "MoRiMUBpgTD7SJdQ7hJ2zymu8wicpD5Qw4Nmp7HSrnA": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDT Orca.svg",
-    "name": "mSOL-USDT Orca"
+    "name": "mSOL-USDT: Orca"
   },
   "MorqJh1BRKSbCq8T1FruhgXWfc2fEUn9Pe1z1BEitRD": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-BTC Orca.svg",
-    "name": "mSOL-BTC Orca"
+    "name": "mSOL-BTC: Orca"
   },
   "MorVRTAC3RnaUd8dMBSb87iW8ijGqxKN97Sr7qQ2VPZ": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-ETH Orca.svg",
-    "name": "mSOL-ETH Orca"
+    "name": "mSOL-ETH: Orca"
   },
   "morFDB3StUG6vPanJGGJS4Y1TDrxELsys1T1hXu259Z": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-MNDE Orca.svg",
-    "name": "mSOL-MNDE Orca"
+    "name": "mSOL-MNDE: Orca"
   },
   "MaRzduEiTEsNpiNeXPynkHxpnXc3CeR98D57P8L13vG": {
     "stakeLink": "https://app.atrix.finance/liquidity",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDT Atrix.svg",
-    "name": "mSOL-USDT Atrix"
+    "name": "mSOL-USDT: Atrix"
   },
   "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J": {
     "stakeLink": "https://dex.aldrin.com/pools/mSOL_USDC",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Aldrin.svg",
-    "name": "mSOL-USDC Aldrin"
+    "name": "mSOL-USDC: Aldrin"
   },
   "mALTDqynw8piW29s5p488BPWRn2zacoWYhCUZLzSSTF": {
     "stakeLink": "https://dex.aldrin.com/pools/mSOL_USDT",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDT Aldrin.svg",
-    "name": "mSOL-USDT Aldrin"
+    "name": "mSOL-USDT: Aldrin"
   },
   "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno": {
     "stakeLink": "https://mainnet.port.finance/#/supply",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL lending Port.svg",
-    "name": "mSOL lending Port"
+    "name": "mSOL collateral: Port"
   },
   "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4": {
     "stakeLink": "https://projectlarix.com/",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL lending Larix.svg",
-    "name": "mSOL lending Larix"
+    "name": "mSOL collateral: Larix"
   },
   "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA": {
     "stakeLink": "https://solend.fi/dashboard",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL lending Solend.svg",
-    "name": "mSOL lending Solend"
+    "name": "mSOL collateral: Solend"
   },
   "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H": {
     "stakeLink": "https://app.apricot.one/",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL lending Apricot.svg",
-    "name": "mSOL lending Apricot"
+    "name": "mSOL collateral: Apricot"
   },
   "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj": {
     "stakeLink": "https://app.synthetify.io/staking",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL collateral Synthetify.svg",
-    "name": "mSOL collateral Synthetify"
+    "name": "mSOL collateral: Synthetify"
   },
   "Hs2XmWQFw3ExawMQkCsBGQGX73JG1n2Qpjm8G7dYRw7m": {
     "stakeLink": "https://marinade.finance/app/staking/",
@@ -90,18 +90,18 @@
   },
   "AUxNeq9F3BWmX8Kcc4ZstHpkRXxFXKjKudePJt1LtfiS": {
     "stakeLink": "https://marinade.finance/app/defi/",
-    "name": "mSOL-SOL Marinade"
+    "name": "mSOL-SOL: Marinade"
   },
   "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68": {
     "stakeLink": "https://app.saber.so/pools/msol_sol/deposit",
-    "name": "mSOL-SOL Saber"
+    "name": "mSOL-SOL: Saber"
   },
   "6reWgQvR2U5TErw9ZDTdgoqpogH3iPKdTQkEtMjrRMPT": {
     "stakeLink": "https://app.friktion.fi/income",
-    "name": "mSOL options Friktion"
+    "name": "mSOL options: Friktion"
   },
   "4vEpGyST5RVWpDEPp6FHrnkcbXyNN5sm9zpgzKgj3LQr": {
     "stakeLink": "https://app.katana.so/options/call/msol",
-    "name": "mSOL options Katana"
+    "name": "mSOL options: Katana"
   }
 }
