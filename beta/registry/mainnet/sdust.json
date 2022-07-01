@@ -1,0 +1,117 @@
+{
+  "address": "HdczogoASRJeChYRLUNbMKPRdcDrHYgFg3z3FLz5B6ts",
+  "addresses": {
+    "electorate": {
+      "address": "F8y3UhdysUF1MS2posoZVKkRUwf9UYDKttAZpdwz96Tg",
+      "label": "Electorate"
+    },
+    "emergency-dao": {
+      "address": "74DYnFGWo7cCvmbho6szAaqW8PozYBX8uj5wgqFNMNJp",
+      "label": "Emergency DAO",
+      "type": "smart-wallet"
+    },
+    "executive-council": {
+      "address": "8E4FrgroyxFHZSpjKyV1JUqWEHrutZ4g28QhvE3qRyJd",
+      "label": "Executive Council",
+      "type": "smart-wallet"
+    },
+    "governor": {
+      "address": "HdczogoASRJeChYRLUNbMKPRdcDrHYgFg3z3FLz5B6ts",
+      "label": "Governor"
+    },
+    "smart-wallet": {
+      "address": "FWropvQveWS9gRDCV4JaidqzMMmEu4sQMK4JqjVMCV3j",
+      "label": "Smart Wallet",
+      "type": "smart-wallet"
+    }
+  },
+  "description": "Metaverse services and investment DAO",
+  "govToken": {
+    "address": "C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "discord": "https://discord.gg/ZVQNNtbw3u",
+      "twitter": "https://twitter.com/soliensnft",
+      "website": "https://soliens.super.site/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy/daologo.png",
+    "name": "Solien DAO",
+    "symbol": "SDUST",
+    "tags": [
+      "nft"
+    ]
+  },
+  "governance": {
+    "address": "HdczogoASRJeChYRLUNbMKPRdcDrHYgFg3z3FLz5B6ts",
+    "description": "Metaverse services and investment DAO",
+    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy/daologo.png",
+    "name": "Solien",
+    "network": "mainnet-beta",
+    "parameters": {
+      "governor": {
+        "quorumVotes": "150000000000",
+        "timelockDelay": 30,
+        "votingDelay": 86400,
+        "votingPeriod": 259200
+      },
+      "locker": {
+        "maxStakeDuration": 157680000,
+        "maxStakeVoteMultiplier": 10,
+        "minStakeDuration": 604800,
+        "proposalActivationMinVotes": "50000000000",
+        "whitelistEnabled": true
+      }
+    },
+    "slug": "sdust",
+    "token": {
+      "address": "C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "discord": "https://discord.gg/ZVQNNtbw3u",
+        "twitter": "https://twitter.com/soliensnft",
+        "website": "https://soliens.super.site/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy/daologo.png",
+      "name": "Solien DAO",
+      "symbol": "SDUST",
+      "tags": [
+        "nft"
+      ]
+    }
+  },
+  "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/C5EefTmWXHJWFkN3Dh7QyFUnBG3UXSu8h6qVs6xtaLxy/daologo.png",
+  "links": {
+    "app": {
+      "label": "App",
+      "url": "https://app.solien.io/"
+    },
+    "discord": {
+      "label": "Discord",
+      "url": "https://discord.gg/FrtBMHFE"
+    },
+    "forum": {
+      "label": "Forum",
+      "url": "https://forum.solien.io/"
+    },
+    "twitter": {
+      "label": "Twitter",
+      "url": "https://twitter.com/soliensnft"
+    },
+    "website": {
+      "label": "Website",
+      "url": "https://solien.io/"
+    }
+  },
+  "name": "Solien",
+  "proposals": {
+    "discussion": {
+      "link": "https://forum.solien.io/c/governance/5",
+      "prefix": "https://forum.solien.io/t/",
+      "required": true
+    },
+    "notice": "To create a proposal, first make a post on the [Solien Governance Forum](https://forum.solien.io/c/governance/6).\n\nOnce you have determined that there is sufficient community support,\nadd the link to the discussion thread and create a proposal.\n"
+  },
+  "slug": "sdust"
+}

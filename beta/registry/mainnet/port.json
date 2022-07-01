@@ -1,0 +1,94 @@
+{
+  "address": "GmUCWNhPKo8tHNsvjPQkh9WyvUmACcdrwV8LApGeLRKb",
+  "description": "A suite of fixed-income products on Solana",
+  "gauge": {
+    "gaugemeister": "72sErSoiCxLqEmM7Vg2VfJBAd5PVcEaAKti99fd1dRbo"
+  },
+  "govToken": {
+    "address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "port-finance",
+      "discord": "https://discord.gg/nAMXAYhTb2",
+      "github": "https://github.com/port-finance/",
+      "medium": "https://medium.com/port-finance",
+      "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+      "telegram": "https://t.me/port_finance",
+      "twitter": "https://twitter.com/port_finance",
+      "waterfallbot": "https://bit.ly/PORTwaterfall",
+      "website": "https://port.finance/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+    "name": "Port Finance Token",
+    "symbol": "PORT"
+  },
+  "governance": {
+    "address": "GmUCWNhPKo8tHNsvjPQkh9WyvUmACcdrwV8LApGeLRKb",
+    "description": "A suite of fixed-income products on Solana",
+    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+    "name": "Port",
+    "network": "mainnet-beta",
+    "slug": "port",
+    "token": {
+      "address": "PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "port-finance",
+        "discord": "https://discord.gg/nAMXAYhTb2",
+        "github": "https://github.com/port-finance/",
+        "medium": "https://medium.com/port-finance",
+        "serumV3Usdc": "8x8jf7ikJwgP9UthadtiGFgfFuyyyYPHL3obJAuxFWko",
+        "telegram": "https://t.me/port_finance",
+        "twitter": "https://twitter.com/port_finance",
+        "waterfallbot": "https://bit.ly/PORTwaterfall",
+        "website": "https://port.finance/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+      "name": "Port Finance Token",
+      "symbol": "PORT"
+    }
+  },
+  "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoRTjZMPXb9T7dyU7tpLEZRQj7e6ssfAE62j2oQuc6y/PORT.png",
+  "links": {
+    "app": {
+      "label": "App",
+      "url": "https://mainnet.port.finance"
+    },
+    "discord": {
+      "label": "Discord",
+      "url": "https://discord.gg/nAMXAYhTb2"
+    },
+    "github": {
+      "label": "Github",
+      "url": "https://github.com/port-finance/"
+    },
+    "medium": {
+      "label": "Medium",
+      "url": "https://medium.com/port-finance"
+    },
+    "twitter": {
+      "label": "Twitter",
+      "url": "https://twitter.com/port_finance"
+    },
+    "website": {
+      "label": "Website",
+      "url": "https://port.finance"
+    }
+  },
+  "minter": {
+    "mintWrapper": "HV5q5fTPSQUugUg1xhNQkeviG1g9TL7SSANBizL6xx3W"
+  },
+  "name": "Port",
+  "quarry": {
+    "additionalRewarders": [],
+    "features": [],
+    "gauge": {
+      "gaugemeister": "72sErSoiCxLqEmM7Vg2VfJBAd5PVcEaAKti99fd1dRbo"
+    },
+    "mintWrapper": "HV5q5fTPSQUugUg1xhNQkeviG1g9TL7SSANBizL6xx3W",
+    "rewarder": "GuHrjvzqDvLTB27ebd9iFKwceCxKvSswzTByDQUTsvdm"
+  },
+  "slug": "port"
+}

@@ -1,0 +1,93 @@
+{
+  "address": "CbGthriWTbZFYT6Mro1de7hwHLGWC5f8huMjgBuCRUsh",
+  "description": "The gateway to Anchor interest bearing assets on Solana",
+  "gauge": {
+    "gaugemeister": "Gc7hPSbWNT8zBwpSCWKcb5gv7WHHqFkTJVsbPWxD2qyA"
+  },
+  "govToken": {
+    "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "website": "https://soluna.money/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+    "name": "Soluna Governance Token",
+    "symbol": "SLNA"
+  },
+  "governance": {
+    "address": "CbGthriWTbZFYT6Mro1de7hwHLGWC5f8huMjgBuCRUsh",
+    "description": "The gateway to Anchor interest bearing assets on Solana",
+    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+    "name": "Soluna",
+    "network": "mainnet-beta",
+    "parameters": {
+      "governor": {
+        "quorumVotes": "40000000000000",
+        "timelockDelay": 86400,
+        "votingDelay": 86400,
+        "votingPeriod": 259200
+      },
+      "locker": {
+        "maxStakeDuration": 157680000,
+        "maxStakeVoteMultiplier": 10,
+        "minStakeDuration": 86400,
+        "proposalActivationMinVotes": "1000000000000",
+        "whitelistEnabled": true
+      }
+    },
+    "slug": "slna",
+    "token": {
+      "address": "SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "website": "https://soluna.money/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+      "name": "Soluna Governance Token",
+      "symbol": "SLNA"
+    }
+  },
+  "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SLNAAQ8VT6DRDc3W9UPDjFyRt7u4mzh8Z4WYMDjJc35/slna.svg",
+  "links": {
+    "discord": {
+      "label": "Discord",
+      "url": "discord.gg/55xvnWrnPr"
+    },
+    "github": {
+      "label": "Github",
+      "url": "https://github.com/soluna-protocol"
+    },
+    "medium": {
+      "label": "Medium",
+      "url": "https://medium.com/solunadao"
+    },
+    "twitter": {
+      "label": "Twitter",
+      "url": "https://twitter.com/solunaDAO"
+    },
+    "website": {
+      "label": "Website",
+      "url": "https://soluna.money"
+    }
+  },
+  "minter": {
+    "mintWrapper": "DvZudaVyiZhpL8W6BnsaFaJp6jWV8nDMhQGfkXKXBpXA"
+  },
+  "name": "Soluna",
+  "quarry": {
+    "additionalRewarders": [],
+    "features": [],
+    "gauge": {
+      "gaugemeister": "Gc7hPSbWNT8zBwpSCWKcb5gv7WHHqFkTJVsbPWxD2qyA"
+    },
+    "mintWrapper": "DvZudaVyiZhpL8W6BnsaFaJp6jWV8nDMhQGfkXKXBpXA",
+    "operator": {
+      "address": "H4VXFyfeUDahSokaE9mjGUaP6UDREqyXcjiHWmfq9yQs",
+      "features": []
+    },
+    "rewarder": "AnYPEy4H3U3XhT5hwM4cGPxLk3CNqn9kkqzyaXhj1LKc"
+  },
+  "slug": "slna"
+}

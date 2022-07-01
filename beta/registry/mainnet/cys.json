@@ -1,0 +1,113 @@
+{
+  "address": "cysPXAjehMpVKUapzbMCCnpFxUFFryEWEaLgnb9NrR8",
+  "addresses": {
+    "electorate": {
+      "address": "6vGZ4L4QpDDEU8uet6TGJCJZSLcWg2yjRKFkNFumdZUn",
+      "label": "Electorate"
+    },
+    "emergency-dao": {
+      "address": "9JnDhqwFjbWQteZBuWvM4MZqoPaj1WiccHgRHhtF8KVh",
+      "label": "Emergency DAO",
+      "type": "smart-wallet"
+    },
+    "executive-council": {
+      "address": "3X9o4aanui8rQVPtYGz1ix8j4qYuJ3aZbWzUsZJGsMK5",
+      "label": "Executive Council",
+      "type": "smart-wallet"
+    },
+    "governor": {
+      "address": "HnV7iBwe3pfeUdmBwmNir8jDWUunsb7CuGSHnnBdMJBC",
+      "label": "Governor"
+    },
+    "smart-wallet": {
+      "address": "4e8ae3uEcfFMA16UL8ZsKiFChKybwTDQtyTaw5Kv4J73",
+      "label": "Smart Wallet",
+      "type": "smart-wallet"
+    }
+  },
+  "description": "Concentrated liquidity AMM on Solana",
+  "govToken": {
+    "address": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "coingeckoId": "fabric",
+      "serumV3Usdc": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
+      "twitter": "https://twitter.com/official_fabric",
+      "website": "https://fsynth.io/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96/logo.png",
+    "name": "FABRIC",
+    "symbol": "FAB"
+  },
+  "governance": {
+    "address": "cysPXAjehMpVKUapzbMCCnpFxUFFryEWEaLgnb9NrR8",
+    "description": "Concentrated liquidity AMM on Solana",
+    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96/logo.png",
+    "name": "Cykura",
+    "network": "mainnet-beta",
+    "parameters": {
+      "governor": {
+        "quorumVotes": "2000000000000",
+        "timelockDelay": 1,
+        "votingDelay": 1,
+        "votingPeriod": 259200
+      },
+      "locker": {
+        "maxStakeDuration": 157680000,
+        "maxStakeVoteMultiplier": 10,
+        "minStakeDuration": 86400,
+        "proposalActivationMinVotes": "2000000000000",
+        "whitelistEnabled": true
+      }
+    },
+    "slug": "cys",
+    "token": {
+      "address": "EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "coingeckoId": "fabric",
+        "serumV3Usdc": "Cud48DK2qoxsWNzQeTL5D8sAiHsGwG8Ev1VMNcYLayxt",
+        "twitter": "https://twitter.com/official_fabric",
+        "website": "https://fsynth.io/"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96/logo.png",
+      "name": "FABRIC",
+      "symbol": "FAB"
+    }
+  },
+  "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EdAhkbj5nF9sRM7XN7ewuW8C9XEUMs8P7cnoQ57SYE96/logo.png",
+  "links": {
+    "app": {
+      "label": "App",
+      "url": "https://app.cykura.io"
+    },
+    "discord": {
+      "label": "Discord",
+      "url": "http://discord.gg/gyaK56UreX"
+    },
+    "github": {
+      "label": "Github",
+      "url": "https://github.com/cykura"
+    },
+    "medium": {
+      "label": "Medium",
+      "url": "https://cykura.medium.com/"
+    },
+    "telegram": {
+      "label": "Telegram",
+      "url": "https://t.me/cykuraofficialchat"
+    },
+    "twitter": {
+      "label": "Twitter",
+      "url": "https://twitter.com/cykurafi"
+    },
+    "website": {
+      "label": "Website",
+      "url": "https://cykura.io"
+    }
+  },
+  "name": "Cykura",
+  "slug": "cys"
+}

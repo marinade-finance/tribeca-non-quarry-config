@@ -1,0 +1,55 @@
+{
+  "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
+  "description": "AMM for mean-reverting trading pairs on Solana",
+  "govToken": {
+    "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+    "chainId": 103,
+    "decimals": 6,
+    "extensions": {
+      "coingeckoId": "saber",
+      "discord": "https://chat.saber.so",
+      "github": "https://github.com/saber-hq",
+      "medium": "https://blog.saber.so",
+      "twitter": "https://twitter.com/saber_hq",
+      "website": "https://saber.so"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "name": "Saber Protocol Token",
+    "symbol": "SBR",
+    "tags": []
+  },
+  "governance": {
+    "address": "9tnpMysuibKx6SatcH3CWR9ZsSRMBNeBf1mhfL6gAXR4",
+    "description": "AMM for mean-reverting trading pairs on Solana",
+    "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+    "name": "Saber",
+    "network": "devnet",
+    "slug": "sbr",
+    "token": {
+      "address": "Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1",
+      "chainId": 103,
+      "decimals": 6,
+      "extensions": {
+        "coingeckoId": "saber",
+        "discord": "https://chat.saber.so",
+        "github": "https://github.com/saber-hq",
+        "medium": "https://blog.saber.so",
+        "twitter": "https://twitter.com/saber_hq",
+        "website": "https://saber.so"
+      },
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+      "name": "Saber Protocol Token",
+      "symbol": "SBR",
+      "tags": []
+    }
+  },
+  "iconURL": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+  "name": "Saber",
+  "saves": [
+    {
+      "duration": 31536000,
+      "mint": "ESm4AoqMaJ8aJR6nNvd7h45hcv83VpC9G6awj8CiDUBT"
+    }
+  ],
+  "slug": "sbr"
+}
