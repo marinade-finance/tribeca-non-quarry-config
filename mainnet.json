@@ -1,10 +1,10 @@
 {
-  "x": {
+  "2ZYtfSMywUGf54DTzGGfC7FW3pxNdV4414xX8mAK1i2R": {
     "stakeLink": "https://www.mercurial.finance/pools/msol-2pool",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Mercurial.svg",
     "name": "mSOL-SOL: Mercurial"
   },
-  "xs": {
+  "7JJaFMciUgkjn2oV1a8YC4T8DerpDC7eKyb5RmdePv9S": {
     "stakeLink": "https://app.crema.finance/#/pool?from=mSOL&to=SOL",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Crema.svg",
     "name": "mSOL-SOL: Crema"
