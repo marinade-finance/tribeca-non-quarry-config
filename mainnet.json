@@ -47,8 +47,8 @@
   },
   "CtcM7BGCqccq1Uxjme8Pff7HYX4Qt2e4CSy4UFZa1DHF": {
     "stakeLink": "https://app.atrix.finance/liquidity",
-    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDT Atrix.svg",
-    "name": "mSOL-USDT: Atrix"
+    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Atrix.svg",
+    "name": "mSOL-USDC: Atrix"
   },
   "CuWqxK4kVC13K3iRginkLQqqFUn8UW5qqmjgRPQLfEBQ": {
     "stakeLink": "https://dex.aldrin.com/pools/mSOL_USDC",
