@@ -109,5 +109,9 @@
     "stakeLink": "https://app.katana.so/options/call/msol",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL automated strategy Katana.svg",
     "name": "mSOL options: Katana"
+  },
+  "9dPDFoWVgPJ28MfxWpWFmfch6kqxUhFSc65pBcUjdX1v": {
+    "stakeLink": "https://lifinity.io/pools/",
+    "name": "mSOL-USDC: Lifinity"
   }
 }
