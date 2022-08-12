@@ -115,5 +115,16 @@
     "stakeLink": "https://lifinity.io/pools/",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Lifinity.svg",
     "name": "mSOL-USDC: Lifinity"
+  },
+  "7JGA8JZ4hMRhB1vfZw3RfpvVyutqfA9fdzDeXAfvWWBn": {
+    "stakeLink": "https://app.hubbleprotocol.io/borrow",
+    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL Hubble.svg",
+    "name": "mSOL collateral: Hubble",
+    "hide": true
+  },
+  "Cv5hgvbGuqzz4qgUNezsiPeKF1Gjk7Z8TvpLJhnP2KBJ": {
+    "stakeLink": "https://www.orca.so/whirlpools",
+    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDH Orca.svg",
+    "name": "mSOL-USDH: Orca"
   }
 }
