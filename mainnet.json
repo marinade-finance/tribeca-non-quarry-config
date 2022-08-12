@@ -8,7 +8,8 @@
     "stakeLink": "https://app.crema.finance/#/pool?from=mSOL&to=SOL",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Crema.svg",
     "name": "mSOL-SOL: Crema",
-    "tooltip": "A vulnerability has recently been discovered and exploited on Crema and the protocol is currently halted."
+    "tooltip": "A vulnerability has recently been discovered and exploited on Crema and the protocol is currently halted.",
+    "hide": true
   },
   "6SUCGNuWuppCFVW62n4K1K5RDxiGbzLJ4CRZB6UwYVbR": {
     "stakeLink": "https://raydium.io/liquidity/add/?coin0=mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So&coin1=sol&fixed=coin0&ammId=EGyhb2uLAsRUbRx9dNFBjMVYnFaASWMvD6RE1aEf2LxL",
