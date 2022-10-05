@@ -126,5 +126,10 @@
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDH Orca.svg",
     "name": "mSOL-USDH: Orca"
+  },
+  "C3on8hLYamJA6GtS5NMw5Z8iseAHfNCvPhHwqQvbDjPe": {
+    "stakeLink": "https://marinade.finance/",
+    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/Marinade.svg",
+    "name": "Do not distribute MNDE"
   }
 }
