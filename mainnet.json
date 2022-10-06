@@ -127,12 +127,12 @@
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDH Orca.svg",
     "name": "mSOL-USDH: Orca"
   },
-  "9gCByQXBkstp9ZsFv7cQ8gYnv2Ru9tDy5xSdMfHK1R9C": {
+  "C3on8hLYamJA6GtS5NMw5Z8iseAHfNCvPhHwqQvbDjPe": {
     "stakeLink": "https://marinade.finance/",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/Marinade.svg",
     "name": "Do not distribute MNDE"
   },
-  "C3on8hLYamJA6GtS5NMw5Z8iseAHfNCvPhHwqQvbDjPe": {
+  "9gCByQXBkstp9ZsFv7cQ8gYnv2Ru9tDy5xSdMfHK1R9C": {
     "stakeLink": "https://raydium.io/liquidity/add/?coin0=mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So&coin1=sol&fixed=coin0&ammId=EGyhb2uLAsRUbRx9dNFBjMVYnFaASWMvD6RE1aEf2LxL",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Raydium.svg",
     "name": "mSOL-SOL: Raydium"
