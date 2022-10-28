@@ -115,6 +115,7 @@
     "stakeLink": "https://lifinity.io/pools/",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Lifinity.svg",
     "name": "mSOL-USDC: Lifinity",
+    "tooltip": "This gauge has been disabled and can no longer be voted on. Please remove remaining votes as they no longer account.",
     "expiry": "2022-10-28T00:00:00Z"
   },
   "7JGA8JZ4hMRhB1vfZw3RfpvVyutqfA9fdzDeXAfvWWBn": {
