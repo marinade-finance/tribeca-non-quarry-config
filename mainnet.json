@@ -12,7 +12,7 @@
     "hide": true
   },
   "6SUCGNuWuppCFVW62n4K1K5RDxiGbzLJ4CRZB6UwYVbR": {
-    "stakeLink": "https://raydium.io/clmm/create/?ammId=CiHghAc3Fat5JgBB4L6vUcY6hud89YwgL1q4nKu1rsNQ",
+    "stakeLink": "https://raydium.io/clmm/create-position/?ammId=CiHghAc3Fat5JgBB4L6vUcY6hud89YwgL1q4nKu1rsNQ",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Raydium.svg",
     "name": "mSOL-USDC: Raydium"
   },
@@ -135,7 +135,7 @@
     "name": "Do not distribute MNDE"
   },
   "9gCByQXBkstp9ZsFv7cQ8gYnv2Ru9tDy5xSdMfHK1R9C": {
-    "stakeLink": "https://raydium.io/clmm/create/?ammId=HZf7wppva3wk4dCnrUe2GE1c8aUEXsUNk5asMFQ5sYch",
+    "stakeLink": "https://raydium.io/clmm/create-position/?ammId=HZf7wppva3wk4dCnrUe2GE1c8aUEXsUNk5asMFQ5sYch",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Raydium.svg",
     "name": "mSOL-SOL: Raydium"
   }
