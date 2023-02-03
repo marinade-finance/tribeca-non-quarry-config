@@ -126,7 +126,9 @@
   "6reWgQvR2U5TErw9ZDTdgoqpogH3iPKdTQkEtMjrRMPT": {
     "stakeLink": "https://app.friktion.fi/income",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL automated strategy Friktion.svg",
-    "name": "mSOL options: Friktion"
+    "name": "mSOL options: Friktion",
+    "tooltip": "This gauge has been disabled and can no longer be voted on. Please remove remaining votes as they no longer account.",
+    "expiry": "2023-02-03T00:00:00Z"
   },
   "4vEpGyST5RVWpDEPp6FHrnkcbXyNN5sm9zpgzKgj3LQr": {
     "stakeLink": "https://app.katana.so/options/call/msol",
