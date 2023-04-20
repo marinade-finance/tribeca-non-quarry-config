@@ -21,12 +21,16 @@
   "GhdVRwEQCzUFRJddWXchGpKU1MV6WmM8CVYbu2Z7zXFj": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Orca.svg",
-    "name": "mSOL-SOL: Orca"
+    "name": "mSOL-SOL: Orca",
+    "tooltip": "This gauge has been disabled and can no longer be voted on. Please remove remaining votes as they no longer account.",
+    "expiry": "2023-04-20T00:00:00Z"
   },
   "7xKSKaAMvc7vGAtSwPoLYCe6hp4wWnSJE4Doq4CdKB8u": {
     "stakeLink": "https://www.orca.so/whirlpools",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Orca.svg",
-    "name": "mSOL-USDC: Orca"
+    "name": "mSOL-USDC: Orca",
+    "tooltip": "This gauge has been disabled and can no longer be voted on. Please remove remaining votes as they no longer account.",
+    "expiry": "2023-04-20T00:00:00Z"
   },
   "8fQVAVF4txPdAnwUzHjSVzhPpqZyu67zh5aDPrcNgisy": {
     "stakeLink": "https://www.orca.so/whirlpools",
@@ -64,7 +68,9 @@
   "CuWqxK4kVC13K3iRginkLQqqFUn8UW5qqmjgRPQLfEBQ": {
     "stakeLink": "https://dex.aldrin.com/pools/mSOL_USDC",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-USDC Aldrin.svg",
-    "name": "mSOL-USDC: Aldrin"
+    "name": "mSOL-USDC: Aldrin",
+    "tooltip": "This gauge has been disabled and can no longer be voted on. Please remove remaining votes as they no longer account.",
+    "expiry": "2023-04-20T00:00:00Z"
   },
   "Di7jfigmF1XMkD8T5JZjnH1b4d7xhLQHPtCGuFBLyBia": {
     "stakeLink": "https://dex.aldrin.com/pools/mSOL_USDT",
@@ -88,9 +94,7 @@
   "2mLWuwAqit6b7uP1GxdguR2DFwh9iYeku11cdZumuA4p": {
     "stakeLink": "https://solend.fi/dashboard",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL lending Solend.svg",
-    "name": "mSOL collateral: Solend",
-    "tooltip": "This gauge has been disabled and can no longer be voted on. Please remove remaining votes as they no longer account.",
-    "expiry": "2022-11-17T00:00:00Z"
+    "name": "mSOL collateral: Solend"
   },
   "H44Fp8CutsLvfTSeqcoTCK6gp3nnWgsWKkvdu5CVUUgh": {
     "stakeLink": "https://app.apricot.one/",
@@ -164,5 +168,14 @@
     "stakeLink": "https://raydium.io/clmm/create-position/?ammId=HZf7wppva3wk4dCnrUe2GE1c8aUEXsUNk5asMFQ5sYch",
     "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Raydium.svg",
     "name": "mSOL-SOL: Raydium"
+  },
+  "DxNxnS9RzGCw4XVLqPJZmqCA7wTzBjamN1aN3x7SoG5e": {
+    "stakeLink": "https://app.marginfi.com/",
+    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL collateral marginfi.svg",
+    "name": "mSOL collateral: Mrgn"
+  },
+  "BhdfmZSbLcRTZEezwaL1qRd7w8C5sfynR5ynWxNL4wM8": {
+    "imgSource": "https://raw.githubusercontent.com/marinade-finance/tribeca-non-quarry-config/main/icons/mSOL-SOL Phoenix.svg",
+    "name": "mSOL-SOL: Phoenix"
   }
 }
